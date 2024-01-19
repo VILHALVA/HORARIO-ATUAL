@@ -4,7 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://w7.pngwing.com/pngs/989/91/png-transparent-scalable-graphics-ico-icon-alarm-clock-electronics-digital-clock-fire-alarm-thumbnail.png" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 Esse código HTML, CSS e JavaScript cria uma página simples que exibe informações sobre o horário atual e uma imagem correspondente à parte do dia (manhã, tarde ou noite). Vamos analisar cada parte:
