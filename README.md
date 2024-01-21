@@ -1,10 +1,7 @@
 # HORARIO ATUAL
 ⏰EXIBE O HORÁRIO ATUAL JUNTO COM A INTERFACE CORRESPODENTE. 
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
-
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Esse código HTML, CSS e JavaScript cria uma página simples que exibe informações sobre o horário atual e uma imagem correspondente à parte do dia (manhã, tarde ou noite). Vamos analisar cada parte:
@@ -31,3 +28,33 @@ Esse código HTML, CSS e JavaScript cria uma página simples que exibe informaç
    - As definições visuais incluem cores de fundo, fontes e outros estilos que proporcionam uma aparência agradável à página.
 
 Em resumo, este código cria uma página que exibe a hora atual, determina se é manhã, tarde ou noite, e exibe uma imagem correspondente a essa parte do dia, além de aplicar estilos visuais para melhorar a apresentação da página.
+
+## COMO USAR?
+* Clone o repositório para o seu sistema local:
+
+```bash
+git clone https://github.com/VILHALVA/HORARIO-ATUAL.git
+```
+
+* Navegue até o diretório do projeto.
+
+```bash
+cd HORARIO-ATUAL
+```
+
+* Descompacte o arquivo ZIP (se você baixou manualmente):
+
+```bash
+unzip HORARIO-ATUAL.zip
+```
+* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
+
+## NÃO SABE?
+- Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+
