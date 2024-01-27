@@ -4,32 +4,16 @@
 <img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
-Esse código HTML, CSS e JavaScript cria uma página simples que exibe informações sobre o horário atual e uma imagem correspondente à parte do dia (manhã, tarde ou noite). Vamos analisar cada parte:
+O projeto "Horário Atual" exibe uma mensagem com o horário atual e uma imagem correspondente à parte do dia: manhã, tarde ou noite. Este projeto utiliza JavaScript para obter o horário atual e modificar dinamicamente a exibição com base no horário do dia. Ele oferece uma experiência interativa e visualmente agradável para os usuários, refletindo o período do dia em que estão acessando o site. Aqui estão os principais recursos do projeto:
 
-1. **HTML:**
-   - A página HTML contém uma estrutura básica com as tags `<html>`, `<head>`, `<meta>`, `<title>`, `<script>`, `<link>`, `<body>`, `<header>`, `<section>`, `<div>`, `<img>`, e `<footer>`.
-   - O JavaScript (`CODIGO.js`) é vinculado na seção `<head>`, e o CSS (`CODIGO.css`) é vinculado abaixo do script.
-   - O corpo da página contém um cabeçalho (`<header>`), uma seção (`<section>`) dividida em duas partes (`<div id="msg">` e `<div id="imagem">`), e um rodapé (`<footer>`).
+- **Exibição do Horário Atual:**
+  - Ao carregar a página, o projeto exibe a hora atual, incluindo horas e minutos.
 
-2. **CSS (`CODIGO.css`):**
-   - Define estilos de formatação para o corpo da página, cabeçalho, seção, divs, imagens e rodapé.
-   - Configura um plano de fundo azul para o corpo da página, estilos de texto e outras propriedades visuais.
-
-3. **JavaScript (`CODIGO.js`):**
-   - A função `carregar()` é chamada quando a página é carregada (`onload="carregar()"`).
-   - Dentro da função, é obtida a referência ao elemento com o id 'msg'.
-   - A hora atual é obtida usando `new Date()`, e a mensagem é atualizada para mostrar o horário atual no formato "AGORA SÃO horas:minutos".
-   - Com base na hora atual, são feitas condições para determinar se é manhã, tarde ou noite. Dependendo do período, a visibilidade das imagens (`MANHA`, `TARDE` e `NOITE`) e a cor de fundo do corpo da página são ajustadas.
-
-4. **Imagens:**
-   - O código HTML contém três imagens (`MANHA.jpg`, `TARDE.jpg` e `NOITE.jpg`) dentro da `<div id="imagem">`. Essas imagens representam diferentes partes do dia.
-
-5. **Estilos visuais:**
-   - As definições visuais incluem cores de fundo, fontes e outros estilos que proporcionam uma aparência agradável à página.
-
-Em resumo, este código cria uma página que exibe a hora atual, determina se é manhã, tarde ou noite, e exibe uma imagem correspondente a essa parte do dia, além de aplicar estilos visuais para melhorar a apresentação da página.
+- **Imagem de Fundo Dinâmica:**
+  - Dependendo do horário do dia, uma imagem de fundo correspondente é exibida: manhã, tarde ou noite.
 
 ## COMO USAR?
+### BAIXANDO O PROJETO:
 * Clone o repositório para o seu sistema local:
 
 ```bash
@@ -47,7 +31,14 @@ cd HORARIO-ATUAL
 ```bash
 unzip HORARIO-ATUAL.zip
 ```
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
+
+### EXECUTANDO O PROJETO:
+1. Abra o arquivo `CODIGO.html` em um navegador da web.
+2. O projeto exibirá automaticamente o horário atual e a imagem correspondente.
+3. Observe como a imagem de fundo muda de acordo com o horário do dia:
+   - Pela manhã, uma imagem de fundo representando a manhã é exibida.
+   - Durante a tarde, uma imagem de fundo representando a tarde é exibida.
+   - À noite, uma imagem de fundo representando a noite é exibida.
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
@@ -57,6 +48,5 @@ unzip HORARIO-ATUAL.zip
 
 ## CREDITOS:
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
-- [PROJETO FEITO PARA O CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+- [PROJETO FEITO PARA O CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 - [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
-
